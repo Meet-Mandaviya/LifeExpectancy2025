@@ -37,7 +37,7 @@ The dashboard was designed to:
 
 ## Project Link
 Tableau Public Dashboard:  
-*(Insert your Tableau Public link here)*
+*[(Insert your Tableau Public link here)](https://public.tableau.com/app/profile/meetmandaviya/viz/LifeExpectacy2025/GlobalLifeExpectancyatBirth2025)*
 
 ## Author
 **Meet Mandaviya**  
