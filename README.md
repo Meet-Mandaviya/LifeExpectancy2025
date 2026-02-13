@@ -1,4 +1,5 @@
 # Global Life Expectancy at Birth (2025) – Interactive Tableau Dashboard
+<img width="1272" height="899" alt="LifeExpectacy2025" src="https://github.com/user-attachments/assets/8ccd300d-b138-44cb-a769-7cd68f4c25eb" />
 
 ## Overview
 This project is an interactive data visualization created as part of the **Makeover Monday** trend. It explores global inequality in life expectancy at birth for the year 2025 through an engaging and user-friendly Tableau dashboard. The goal is to present complex demographic data in a clear, visual, and comparative format that supports data storytelling and analytical insights.
@@ -46,3 +47,5 @@ Data Visualization & Analytics Enthusiast
 ---
 
 *This project is intended for educational and portfolio purposes, showcasing practical Tableau and data visualization skills.*
+
+
